@@ -1,0 +1,105 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: A-machine_website_AW_14082014.ai
+Color Mode: RGB color
+Color Profile: Generic RGB Profile
+Ruler Units: pixels
+Artboard Dimensions: 1024 px x 1212.2001 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+Hot pink (RGB)
+R=33 G=47 B=63 1 (RGB)
+Steel (RGB)
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Proxima Nova Bold (OTF)
+Open Sans Semibold (OTF)
+Open Sans (OTF)
+Open Sans Light (OTF)
+Montserrat-Regular (OTF)
+Montserrat-Bold (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/benphilp/Desktop/Screen Shot 2014-07-01 at 13.13.25
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 784K, 960 by 279 pixels
+Dimensions: 1001.625 by 291.097 points 
+Resolution: 69.008 by 69.008 pixels per inch
+
+
+/Users/benphilp/Desktop/Screen Shot 2014-07-01 at 13.13.25
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 784K, 960 by 279 pixels
+Dimensions: 1001.625 by 291.097 points 
+Resolution: 69.008 by 69.008 pixels per inch
+
+
+/Users/benphilp/Desktop/Screen Shot 2014-07-01 at 13.13.25
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 784K, 960 by 279 pixels
+Dimensions: 1001.625 by 291.097 points 
+Resolution: 69.008 by 69.008 pixels per inch
+
+
+/Users/benphilp/Desktop/Screen Shot 2014-07-01 at 13.13.25
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 784K, 960 by 279 pixels
+Dimensions: 1001.625 by 291.097 points 
+Resolution: 69.008 by 69.008 pixels per inch
+
+
+/Users/benphilp/Desktop/Screen Shot 2014-08-06 at 17.21.47
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 135K, 232 by 200 pixels
+Dimensions: 180.006 by 155.178 points 
+Resolution: 92.797 by 92.797 pixels per inch
+
+
+/Users/benphilp/Desktop/Screen Shot 2014-08-06 at 17.21.47
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 135K, 232 by 200 pixels
+Dimensions: 180.006 by 155.178 points 
+Resolution: 92.797 by 92.797 pixels per inch
+
+
+/Users/benphilp/Desktop/Screen Shot 2014-08-06 at 17.21.47
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 135K, 232 by 200 pixels
+Dimensions: 180.006 by 155.178 points 
+Resolution: 92.797 by 92.797 pixels per inch

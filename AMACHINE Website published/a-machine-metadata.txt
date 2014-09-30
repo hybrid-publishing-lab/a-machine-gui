@@ -1,0 +1,23 @@
+<meta name="dcterms.publisher" content="Hybrid Publishing Consortium" />
+<link rel="publisher" href="http://consortium.io" />
+<meta name="generator" content="Mute (http://consortium.io)" />
+<meta name="dcterms.type" content="Text" />
+<meta name="copyright" content="Hybrid Publishing Consortium" />
+<meta property="og:site_name" content="A-machine" />
+<link rel="shortcut icon" href="http://a-machine.net/img/a-machine.ico" type="image/vnd.microsoft.icon" />
+<meta name="twitter:creator" content="@dear_machine" />
+<meta name="twitter:site" content="@dear_machine" />
+<meta name="twitter:card" content="summary" />
+<meta name="robots" content="follow, index" />
+<meta property="og:url" content="http://a-machine.net/" />
+<meta name="google-site-verification" content="" />
+<meta name="keywords" content="Publishing, Open Source, research, infrastructure, Hybrid Publishing Consortium, Single Source, rapid prototyping, software, development" />
+<meta name="description" content="The Hybrid Publishing Consortium's 
+A-machine software ecology provides publishers with the latest Open Source multi-format workflows" />
+<meta name="copyright" content="copyright" />
+<link rel="canonical" href="http://a-machine.net/" />
+<link rel="shortlink" href="http://a-machine.net/" />
+<meta property="og:type" content="website" />
+<meta name="dcterms.identifier" content="http://a-machine.net/" />
+<meta name="dcterms.title" content="A-machine" />
+<meta property="og:title" content="A-machine" />
